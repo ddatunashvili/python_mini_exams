@@ -1,6 +1,5 @@
 def check(string):
     crt = {'open': 1}
-    count = 0
     for i in string:
         # 0 სწორია შეცვლილი ან დაამატე 0
         if i == "(":
